@@ -1,6 +1,6 @@
 ## Hi ![Welcome Gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kavya
 
-![Welcome Gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXg1amo2ajY3OXY0azB4ZDIyeXVkZWwxM2V2Z21zdWdjcGFwZXl4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HMSLfCl5BsXoQ/giphy.gif)
+
 
 <!--
 **KavyaSunithaVijayan/KavyaSunithaVijayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
