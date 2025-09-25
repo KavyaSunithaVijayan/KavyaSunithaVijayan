@@ -1,4 +1,4 @@
-## Hi ![Wave Gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  I'm Kavya Vijayan
+## Hi ![Welcome Banner](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  I'm Kavya Vijayan
 
 ---
 
