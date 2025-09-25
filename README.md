@@ -16,10 +16,10 @@ Hi ![Welcome Banner](https://user-images.githubusercontent.com/18350557/17630978
 
 ### 🌐 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/kavya-vijayan-a89b3525b/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+  <a href="mailto:kavyavijayan6713@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/KavyaSunithaVijayan" target="_blank">
