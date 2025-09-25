@@ -1,5 +1,4 @@
-## Hi there! 👋 ![Wave Gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
-### I'm Kavya Vijayan ✨ — A Passionate React Developer ⚛️
+## Hi there! ![Wave Gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  I'm Kavya Vijayan
 
 <img align="right" alt="Coding Gif" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
