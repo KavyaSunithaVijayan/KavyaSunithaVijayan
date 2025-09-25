@@ -1,9 +1,7 @@
-##Hi ![Welcome Banner](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Im Kavya Vijayan
+Hi ![Welcome Banner](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Im Kavya Vijayan
 ### 🚀 About Me
 - 💻 Frontend Developer specializing in **React.js & TypeScript**
 - 🎨 Passionate about **UI/UX, animations, and beautiful web apps**
-- 🌱 Currently learning **Next.js & Tailwind CSS**
-- ⚡ Love turning complex problems into **simple, elegant solutions**
 
 ### 🛠️ Tech Stack
 <p>
@@ -29,6 +27,3 @@
   </a>
 </p>
 
----
-
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
