@@ -1,14 +1,9 @@
-## Hi ![Welcome Banner](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  I'm Kavya Vijayan
-
----
-
+##Hi ![Welcome Banner](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Im Kavya Vijayan
 ### 🚀 About Me
 - 💻 Frontend Developer specializing in **React.js & TypeScript**
 - 🎨 Passionate about **UI/UX, animations, and beautiful web apps**
 - 🌱 Currently learning **Next.js & Tailwind CSS**
 - ⚡ Love turning complex problems into **simple, elegant solutions**
-
----
 
 ### 🛠️ Tech Stack
 <p>
@@ -20,16 +15,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavyaSunithaVijayan&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaSunithaVijayan&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
----
 
 ### 🌐 Connect with Me
 <p>
