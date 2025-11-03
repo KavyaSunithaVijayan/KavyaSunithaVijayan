@@ -28,7 +28,6 @@ Hi ![Welcome Banner](https://user-images.githubusercontent.com/18350557/17630978
   </a>
 </p>
 
-![GitHub Snake dark](https://github.com/kavyavijayan/snk/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://github.com/kavyavijayan/snk/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
