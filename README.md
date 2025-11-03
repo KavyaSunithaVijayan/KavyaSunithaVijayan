@@ -28,6 +28,6 @@ Hi ![Welcome Banner](https://user-images.githubusercontent.com/18350557/17630978
   </a>
 </p>
 
-![GitHub Snake Light](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
