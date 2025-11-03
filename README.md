@@ -1,5 +1,5 @@
 Hi ![Welcome Banner](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Im Kavya Vijayan
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:9370db&height=200&section=header&text=Welcome%20to%20Kavya's%20Profile!&fontSize=40&fontColor=fff&animation=twinkling" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:9370db&height=200&section=header&text=Welcome%20to%20Kavya's%20Profile!&fontSize=40&fontColor=fff&animation=twinkling" /> -->
 
 ### 🚀 About Me
 - 💻 Frontend Developer specializing in **React.js & TypeScript**
